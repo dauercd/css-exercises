@@ -1,0 +1,22 @@
+p
+{font-family: Verdana, Geneva, Tahoma, DejaVu Sans, sans-serif;}
+
+div
+{font-family: Verdana, Geneva, Tahoma, DejaVu Sans, sans-serif;}
+
+.pink
+    {
+    background-color: pink;}
+
+#blue-text
+    {color: blue;
+    font-size: 36px}
+
+.twenty-four
+    {
+        font-size: 24px;}
+
+#lg
+    {background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;}
